@@ -3,4 +3,4 @@ authors = ["Zhangzqs"]
 language = "en"
 multilingual = false
 src = "src"
-title = "sit-robot-book"
+title = "上海应用技术大学机器人爱好者协会代码详解"
