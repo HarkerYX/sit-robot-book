@@ -1,9 +1,9 @@
 [book]
 authors = ["Zhangzqs"]
-language = "en"
+language = "zh"
 multilingual = false
 src = "src"
-title = "上海应用技术大学机器人爱好者协会代码详解"
+title = "上应大机协之书"
 
 [preprocessor]
 
