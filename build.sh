@@ -1,1 +1,1 @@
-./bin/mdbook serve
+./bin/mdbook build
